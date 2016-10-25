@@ -1,5 +1,5 @@
 /*
-* HACKER RANK -> ALGORITHM -> IMPLEMENTATION
+* HACKER RANK -> ALGORITHM -> STRING
 * Super Reduced String Problem 
 */
 
