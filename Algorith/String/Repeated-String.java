@@ -1,5 +1,7 @@
-/*HACKER RANK -> ALGORITHM -> IMPLEMENTATION
-Repeated String Problem */
+/*
+* HACKER RANK -> ALGORITHM -> IMPLEMENTATION
+* Repeated String Problem 
+*/
 
 import java.util.*;
 import java.lang.*;
